@@ -1,4 +1,6 @@
 # QR Code Generator
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Description
 QR Code Generator is a simple Python application that allows you to generate QR codes for different types of data and save them as PNG files.
