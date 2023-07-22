@@ -34,7 +34,7 @@ If you want to create a standalone executable without the console window, you ca
 4. The standalone executable will be created in the `dist` directory.
 
 ## Screenshots
-![Alt text](image.png)
+![image](https://github.com/hajarbenjat/QR-Generator-Python/assets/138059507/03fe597a-136f-4dbf-9bef-2d001bc35d92)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
