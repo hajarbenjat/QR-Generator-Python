@@ -34,6 +34,9 @@ If you want to create a standalone executable without the console window, you ca
 ## Screenshots
 ![image](https://github.com/hajarbenjat/QR-Generator-Python/assets/138059507/03fe597a-136f-4dbf-9bef-2d001bc35d92)
 
+![1](https://github.com/hajarbenjat/QR-Generator-Python/assets/138059507/f2f1761f-201a-4aee-9836-9fcd0c561479)
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
