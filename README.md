@@ -1,6 +1,4 @@
 # QR Code Generator
-A simple Python application to generate QR codes from text or data input.
-
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
