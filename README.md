@@ -31,6 +31,9 @@ If you want to create a standalone executable without the console window, you ca
 3. Run the command: `pyinstaller --noconsole QRGenerator.py`
 4. The standalone executable will be created in the `dist` directory.
 
+## Screenshots
+![Alt text](image.png)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
